@@ -1,0 +1,17 @@
+body, html { 
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat';
+}
+
+.app-wrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    box-sizing: content-box;
+    height: 100vh;
+}

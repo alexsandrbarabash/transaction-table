@@ -1,0 +1,18 @@
+header {
+  background: #3a80ba;
+  height: 72px;
+
+  // TODO: use formula
+  padding-left: 130px;
+  padding-right: 130px;
+
+  display: flex;
+  align-items: center;
+
+  h1 {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+    color: #ffffff;
+  }
+}

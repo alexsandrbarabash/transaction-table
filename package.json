@@ -1,0 +1,13 @@
+{
+  "name": "@transactions-test-task/root",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "front:dev": "pnpm -F @transactions-test-task/front run dev",
+    "back:dev": "pnpm -F @transactions-test-task/back run start:dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

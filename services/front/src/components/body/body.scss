@@ -1,0 +1,23 @@
+.body-wrapper {
+  padding-left: 130px;
+  padding-right: 130px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  .pagination-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+
+  .search-wrapper {
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+
+    .search-button-wrapper {
+      margin-left: 12px;
+    }
+  }
+}
